@@ -1,4 +1,4 @@
-## Hi there 👋
+Pozdravljeni! Tukaj bom imel shranjeno osnovno podatkovno bazo, ki jo bom uporabljal pri svojemu projektu
 
 <!--
 **delopst1/delopst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
